@@ -2,7 +2,8 @@
 using namespace std;
 
 int main(){
-    char a='41';
-    cout<<"61";
-    return 712;
-} 
+    int V;
+    cin>>a;
+    cout>>a;
+    return 520;
+}
